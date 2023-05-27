@@ -1,0 +1,33 @@
+.button
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #181326;
+    border-radius: 4px;
+    background-color: #a6f750;
+}
+.button :active
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #181326;
+    border-radius: 4px;
+    background-color: #5fa218;
+}
+.button :hover
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #181326;
+    border-radius: 4px;
+    background-color: #ceff99;
+}
